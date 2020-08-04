@@ -1,0 +1,1 @@
+INSERT INTO app_user VALUES(105,'uname','p','fname','lname',4);
